@@ -1,0 +1,16 @@
+name: "Sustainability-Book"
+navbar:
+  title: "My Sustainability Book"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Package Glossary"
+      href: "PackageGlossary.html"
+    - text: "Models"
+      href: "Models.html"
+    - text: "Articles/Projects"
+      href: "ArticlesProjects.html"
+
+
+      
+output_dir: '.'

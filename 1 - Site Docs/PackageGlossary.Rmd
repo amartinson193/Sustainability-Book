@@ -1,0 +1,8 @@
+---
+title: "Package Glossary"
+output: 
+  html_document: 
+    theme: cerulean
+---
+
+
